@@ -105,9 +105,12 @@ Agents must log:
 
 # Jira Integration / Jira MCP
 
+* agent: [jira-manager](.opencode/agent/jira-manager.md) will be managing these tickets
 * only focus on Jira project 'MYD: MY Software Engineering'
 * only interact with Jira project 'MYD: MY Software Engineering'
 * unresolved tickets only
+* for gemini: focus on tickets that are in [agents/jira-manager/TODO.md](agents/jira-manager/TODO.md)
+* for opencode: focus on tickets that are in [agents/jira-manager/TODO-2.md](agents/jira-manager/TODO-2.md)
 
 ---
 

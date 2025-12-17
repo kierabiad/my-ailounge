@@ -103,6 +103,22 @@ governance/      # Permissions, approvals, audit rules
 
 ---
 
+## Non‑Technical Management Documentation
+
+For stakeholders and non‑technical management, additional documentation is available here:
+
+- https://docs.google.com/document/d/16lDOCrXu6rwe9LrreVaaeqMFOpC70GTjccrezGsKt6s/edit?tab=t.0
+
+---
+
+## AI Prompt References
+
+The following spreadsheet contains curated AI prompt references used across agents and workflows:
+
+- https://docs.google.com/spreadsheets/d/1lk6JNKtl3D4bx9b5z_kJ5J8UqMYj0WKFdQ2yE7R87kg/edit?gid=0#gid=0
+
+---
+
 ## Non‑Goals
 
 - Replacing human judgment
@@ -110,6 +126,30 @@ governance/      # Permissions, approvals, audit rules
 - General application framework
 
 ---
+
+# 2026 Targets
+
+1. Engineering Targets
+- Reduce repetitive Jira/Slack overhead
+
+2. 10 stable internal agents
+- Prompt library with clear categories
+- At least 3 reusable Python tools
+- App Tester
+- Main Website Tester
+- Portal Website Tester
+- Analytics Website Tester
+
+
+### General Targets
+
+- Faster architectural reviews
+- Better consistency in decisions
+- Tooling Targets
+- Fewer ad‑hoc decisions
+- Better documentation
+- Less context switching
+- Quality Targets
 
 ## Ownership
 

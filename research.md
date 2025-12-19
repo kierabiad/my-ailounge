@@ -8,6 +8,7 @@
 
 # MCPs
 
+- [gemini MCP installations](https://geminicli.com/docs/tools/mcp-server/)
 - [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers.
 
 # Discussion

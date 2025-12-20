@@ -1,8 +1,8 @@
-# Mind You AI Agents
+# Mind You AI Council and AI Factory
 
-This repository hosts **Mind You AI Agents**, an internal AI‑powered management and execution layer designed to reduce engineering grunt work.
+This repository functions as the **Mind You AI Council and AI Factory**, an advanced, AI-powered internal ecosystem engineered to elevate organizational productivity by a factor of 100x. It achieves this by serving as a central hub for strategic AI-driven management and operational execution, systematically reducing manual engineering overhead and fostering unparalleled efficiency across all technical domains.
 
-Agents in this repo help with:
+The agents within this repository are instrumental in:
 - Communication triage
 - Delivery and Jira management
 - Infrastructure and cost hygiene
@@ -135,13 +135,15 @@ The following spreadsheet contains curated AI prompt references used across agen
 - Reduce repetitive Jira/Slack overhead
 
 ## Agent & Tooling Targets
-- 10 stable internal agents
-  - Prompt library with clear categories
-  - At least 3 reusable Python tools
-  - App Tester
-  - Main Website Tester
-  - Portal Website Tester
-  - Analytics Website Tester
+
+- Prompt library with clear categories
+- At least 3 reusable Python tools
+- Tech Lead assistant
+- Scrum master - organizes the jira tickets
+- App Tester
+- Main Website Tester
+- Portal Website Tester
+- Analytics Website Tester
 
 ## General Improvements
 - Faster architectural reviews

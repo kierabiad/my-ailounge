@@ -11,7 +11,7 @@ Agents in this repo help with:
 
 ---
 
-## Tooling & Model Usage (as of 2025‑12‑17)
+## Tooling & Model Usage
 
 This repository is actively used with **Gemini CLI** and **opencode CLI**. The guidance below reflects current team practice and constraints.
 
@@ -38,7 +38,7 @@ This repository is actively used with **Gemini CLI** and **opencode CLI**. The g
 ### Model Strategy by Role
 
 - **Management & Coordination** → Gemini
-- **Coding, Refactoring, Reviews** → ChatGPT and Anthropic models
+- **Coding, Refactoring, Reviews** → Other specialized models (e.g., Anthropic, OpenAI)
 
 This separation is intentional and helps optimize for:
 - Cost
@@ -48,7 +48,11 @@ This separation is intentional and helps optimize for:
 
 ## API Pricing
 
-See: [https://openai.com/api/pricing/](https://openai.com/api/pricing/)
+For pricing information on all models referenced in this document (e.g., OpenAI, Gemini, Anthropic), please consult their respective official API pricing pages.
+
+- OpenAI: [https://openai.com/api/pricing/](https://openai.com/api/pricing/)
+- Google Gemini: [https://ai.google.dev/pricing](https://ai.google.dev/pricing)
+- Anthropic: [https://www.anthropic.com/api-pricing](https://www.anthropic.com/api-pricing)
 
 
 ## Best Model Per Role
@@ -127,27 +131,27 @@ The following spreadsheet contains curated AI prompt references used across agen
 
 # 2026 Targets
 
-1. Engineering Targets
+## Engineering Targets
 - Reduce repetitive Jira/Slack overhead
 
-2. 10 stable internal agents
-- Prompt library with clear categories
-- At least 3 reusable Python tools
-- App Tester
-- Main Website Tester
-- Portal Website Tester
-- Analytics Website Tester
+## Agent & Tooling Targets
+- 10 stable internal agents
+  - Prompt library with clear categories
+  - At least 3 reusable Python tools
+  - App Tester
+  - Main Website Tester
+  - Portal Website Tester
+  - Analytics Website Tester
 
-
-### General Targets
-
+## General Improvements
 - Faster architectural reviews
 - Better consistency in decisions
-- Tooling Targets
 - Fewer ad‑hoc decisions
 - Better documentation
 - Less context switching
-- Quality Targets
+
+## Quality Targets
+- Improve overall code quality and reliability
 
 ## Ownership
 

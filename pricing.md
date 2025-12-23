@@ -362,6 +362,9 @@ Based on the developer reviews from the research, a few models stand out as bein
     - [DeepSeek API Pricing](https://api-docs.deepseek.com/quick_start/pricing)
 - **Manus**
     - [Manus Pricing](https://manus.im/pricing)
+- **OpenAI:** [API Pricing](https://platform.openai.com/docs/pricing)
+- **Zhipu AI (GLM-4):** (CHEAPEST SO FAR) [Overview & Pricing](https://docs.z.ai/guides/overview/pricing)
+
 
 ### Aggregated and Community Resources
 

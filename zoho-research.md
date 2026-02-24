@@ -102,6 +102,3 @@ Add this logic to your GitHub research file:
 
 4. **Review Tagging:** Once the API returns "Success (200 OK)", the bot posts the final message:
 * `Done! Submitted. @Cedrick @bo please review!`
-### **Next Step**
-
-Would you like me to generate a **JSON payload example** showing how to format the data collected from Slack to send to the TechRequestForm API?
